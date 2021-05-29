@@ -1,6 +1,6 @@
 - 🙏  I’m @vvenkataravindra
 - 👀 I’m interested in web development;linux distros!
-- 🌱 I’m currently learning Django Framework
+- 🌱 I’m currently learning NodeJS
 - Its always tea o'clock!
 
 
